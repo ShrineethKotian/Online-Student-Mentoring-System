@@ -2,4 +2,4 @@
 
 Online Mentoring is fundamentally developed to improve
 the performance of students by assisting mentors to understand the problems of students more
-eectively and easily.
+effectively and easily.
